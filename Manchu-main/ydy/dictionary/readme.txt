@@ -1,0 +1,1 @@
+original_words.txt 是对满汉大辞典docx文档处理后的数据，每一行代表了一个词条。
